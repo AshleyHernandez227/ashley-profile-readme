@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *your name here*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_Well I go by Ash and I'm from houston, IS-1003-004, Cyber Security, Customer Service, and party planning/running._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
